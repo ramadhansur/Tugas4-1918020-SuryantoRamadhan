@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="aplikasi">
+        <item>Whatsapp</item>
+        <item>Instagram</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Line</item>
+        <item>Telegram</item>
+        <item>Youtube</item>
+    </string-array>
+    <string-array name="deskripsi">
+        <item>Aplikasi Chating</item>
+        <item>Aplikasi Sosial Media</item>
+        <item>Aplikasi Sosial Media</item>
+        <item>Aplikasi Sosial Media</item>
+        <item>Aplikasi Chating</item>
+        <item>Aplikasi Chating</item>
+        <item>Aplikasi Streaming Video</item>
+    </string-array>
+</resources>
